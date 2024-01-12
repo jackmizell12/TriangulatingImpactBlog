@@ -1,0 +1,31 @@
+{
+    "id": "09121FE6",
+    "path": "~/Desktop/Github/TriangulatingImpactBlog/posts/DemoPost/index.qmd",
+    "project_path": "posts/DemoPost/index.qmd",
+    "type": "quarto_markdown",
+    "hash": "1134488331",
+    "contents": "",
+    "dirty": false,
+    "created": 1705091924955.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "28:0",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1705092007,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1705092007069,
+    "read_only": false,
+    "read_only_alternatives": []
+}
